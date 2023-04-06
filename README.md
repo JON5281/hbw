@@ -3,13 +3,13 @@
 **因为v2ray 中vmess是较为广泛的协议，支持的设备也多，个人感觉没必要弄太多协议**
 ### 服务端
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/chuccp/cokeV2ray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/JON5281/hbw) 
 
 由于本GitHub地址被限制 ，使用者可以将项目fork到自己的GitHub
 
-https://dashboard.heroku.com/new?template=https://github.com/chuccp/cokeV2ray  
+https://dashboard.heroku.com/new?template=https://github.com/JON5281/hbw
 
-然后将 https://github.com/chuccp/cokeV2ray 改成自己的fork后的新地址，最好将cokeV2ray改成其它名称
+然后将https://github.com/JON5281/hbw 改成自己的fork后的新地址，最好将cokeV2ray改成其它名称
 
 部署后，访问直接页面为404，但是不影响使用
 ### 客户端
